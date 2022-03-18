@@ -1,4 +1,4 @@
-Windows Seup
+Windows Setup
 
 Part A: Set up the prerequisite tools (Choco, Python & Git)
 
